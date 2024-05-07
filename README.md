@@ -29,3 +29,21 @@ O projeto CylinderDistribution é composto por três arquivos principais:
 3. **trabalho.R:** Este arquivo contém os dois scripts combinados, caso seja necessário rodar todos os gráficos de uma vez só.
 
 Essa estrutura organizacional facilita a visualização e execução dos diferentes componentes do projeto, permitindo uma análise eficiente e completa dos dados automotivos.
+
+---
+
+## Gráficos
+
+Aqui estão os gráficos gerados pelos scripts:
+
+### Consumo médio de combustível por veículo
+
+![Consumo médio de combustível por veículo](copiz.png)
+
+### Tendência da potência ao longo do tempo
+
+![Tendência da potência ao longo do tempo](adc.png)
+
+### Contagem de carros por número de cilindros e Distribuição de carros por número de cilindros
+
+![Contagem de carros por número de cilindros e Distribuição de carros por número de cilindros](all.png)
